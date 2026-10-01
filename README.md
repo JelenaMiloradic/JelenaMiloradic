@@ -1,16 +1,25 @@
-## Hi there 👋
+# Jelena Miloradic
 
-<!--
-**JelenaMiloradic/JelenaMiloradic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work across operations, strategy, program delivery and customer experience. My focus is turning complex, cross-functional work into clear processes, reliable systems and measurable results.
 
-Here are some ideas to get you started:
+## Areas of experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Operational strategy and process improvement
+- Cross-functional program and project delivery
+- Technology selection, implementation and adoption
+- Customer success and stakeholder management
+- Building scalable workflows and operating processes
+
+## Selected projects
+
+### Donation platform prototype
+
+Developed the initial concept, user journeys, workflows, site structure and working prototype for a donation platform using Claude Code, Supabase and Vercel.
+
+### Personal routine tracker
+
+Designed and built a private application for organising recurring schedules, recording daily completion and keeping relevant notes in one place.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/jelena-miloradic-338a24148)
